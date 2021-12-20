@@ -1,0 +1,16 @@
+com\ciclo4\reto\servicio\OrderService.class
+com\ciclo4\reto\interfaces\InterfaceUser.class
+com\ciclo4\reto\modelo\Vegetarian.class
+com\ciclo4\reto\servicio\VegetarianService.class
+com\ciclo4\reto\controlador\VegetarianController.class
+com\ciclo4\reto\interfaces\InterfaceOrder.class
+com\ciclo4\reto\repositorio\VegetarianRepositorio.class
+com\ciclo4\reto\repositorio\UserRepositorio.class
+com\ciclo4\reto\RetoApplication.class
+com\ciclo4\reto\modelo\Order.class
+com\ciclo4\reto\servicio\UserService.class
+com\ciclo4\reto\repositorio\OrderRepositorio.class
+com\ciclo4\reto\controlador\OrderController.class
+com\ciclo4\reto\interfaces\InterfaceVegetarian.class
+com\ciclo4\reto\controlador\UserController.class
+com\ciclo4\reto\modelo\User.class
